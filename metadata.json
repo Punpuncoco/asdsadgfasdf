@@ -1,0 +1,6 @@
+{
+  "name": "Flipo-Flip 3D Physics Lab",
+  "description": "Interactive 3D simulation of Flipo-Flip physics on sloped ramp and uneven surfaces with precise orientation control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
